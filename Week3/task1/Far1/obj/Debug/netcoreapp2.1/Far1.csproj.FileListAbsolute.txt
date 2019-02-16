@@ -1,0 +1,11 @@
+C:\PP2\Week3\task1\Far1\obj\Debug\netcoreapp2.1\Far1.csprojAssemblyReference.cache
+C:\PP2\Week3\task1\Far1\obj\Debug\netcoreapp2.1\Far1.csproj.CoreCompileInputs.cache
+C:\PP2\Week3\task1\Far1\obj\Debug\netcoreapp2.1\Far1.AssemblyInfoInputs.cache
+C:\PP2\Week3\task1\Far1\obj\Debug\netcoreapp2.1\Far1.AssemblyInfo.cs
+C:\PP2\Week3\task1\Far1\bin\Debug\netcoreapp2.1\Far1.deps.json
+C:\PP2\Week3\task1\Far1\bin\Debug\netcoreapp2.1\Far1.runtimeconfig.json
+C:\PP2\Week3\task1\Far1\bin\Debug\netcoreapp2.1\Far1.runtimeconfig.dev.json
+C:\PP2\Week3\task1\Far1\bin\Debug\netcoreapp2.1\Far1.dll
+C:\PP2\Week3\task1\Far1\bin\Debug\netcoreapp2.1\Far1.pdb
+C:\PP2\Week3\task1\Far1\obj\Debug\netcoreapp2.1\Far1.dll
+C:\PP2\Week3\task1\Far1\obj\Debug\netcoreapp2.1\Far1.pdb
